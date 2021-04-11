@@ -127,4 +127,4 @@ if (!rank) return message.reply(' ')
 });
  
  
-client.login('ODEyNzQ3NzY2ODExNTkwNjc4.YDFQVw.2S4BUx8vy4jl5s3SdEuAzBnF80A');
+client.login('NzgzMTYxMDg1NzMyNTg1NDgy.X8WtmQ.9JF2jnD0NYNVNIH97Q5XXZuK1NI');
